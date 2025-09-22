@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SakshamRathee
+- 👋 Hi, I’m @SakshamRana
 - 👀 I’m interested in Youtube
 - 🌱 I’m currently learning languages of Full Stack Web Development
 - 💞️ I’m looking to collaborate on Full Stack Web Development
